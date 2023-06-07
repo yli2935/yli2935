@@ -44,16 +44,16 @@ I'm Y**aguang** L**i**, Master student at uwo.
   <a href="https://github.com/yli2935">
     <img src="https://badges.strrl.dev/visits/yli2935/yli2935?logo=github">
   </a>
-  <a href="https://github.com/Charmve">
+  <a href="https://github.com/yli2935">
     <img src="https://badges.strrl.dev/years/yli2935?style=flat-square&logo=github">
   </a>
-  <a href="https://github.com/Charmve?tab=repositories">
+  <a href="https://github.com/yli2935?tab=repositories">
     <img src="https://badges.strrl.dev/repos/yli2935?style=flat-square&logo=github">
   </a>
-  <a href="https://gist.github.com/Charmve">
+  <a href="https://gist.github.com/yli2935">
     <img src="https://badges.strrl.dev/gists/yli2935?style=flat-square&logo=github">
   </a>
-  <a href="https://github.com/Charmve">
+  <a href="https://github.com/yli2935">
     <img src="https://badges.strrl.dev/commits/monthly/yli2935?style=flat-square&logo=github">
   </a>
 </p>
