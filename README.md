@@ -15,7 +15,6 @@
 I'm Y**aguang** L**i**, Master student at uwo.
 
 -   :hammer_and_pick: Java / Python / JavaScript / Android Studio / React 
--   :seedling: Taking courses & doing research assistant at uwo
 -   :thought_balloon: Ask me anything at [Discussions](https://github.com/yli2935/yli2935/discussions/new/choose)!
 -   🤔  I’m currently learning React native
 -   👯  I’m looking for coop
